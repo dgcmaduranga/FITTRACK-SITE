@@ -1,0 +1,22 @@
+.chat-box {
+  background-color: #f9f9f9;
+  padding: 15px;
+  height: 300px;
+  overflow-y: auto;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.message.user {
+  text-align: right;
+  color: #007bff;
+}
+
+.message.assistant {
+  text-align: left;
+  color: #28a745;
+}
