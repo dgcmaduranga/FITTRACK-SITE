@@ -38,11 +38,12 @@ It helps users **track workouts, calculate BMI-based Smart Plans, and interact w
 
      npm start
 5.Screenshots
- dashboard
+
+5.1 Dashboard
  
 <img width="1920" height="1035" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/e348b015-1183-4ebb-b092-924786ff3ba5" />
 
-  login
+5.2 Login
   
 
 
