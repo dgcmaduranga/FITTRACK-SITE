@@ -41,14 +41,12 @@ It helps users **track workouts, calculate BMI-based Smart Plans, and interact w
 5.License
 his project is for educational purposes only.
 
----
-
-### **3. Save the file and commit**
-In your terminal (inside `fittrack-site`):
-```bash
-git add README.md
-git commit -m "Updated README with project details"
-git push
+     ### **3. Save the file and commit**
+     In your terminal (inside `fittrack-site`):
+      ```bash
+     git add README.md
+     git commit -m "Updated README with project details"
+     git push
 
 
 
