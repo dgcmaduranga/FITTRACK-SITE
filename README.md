@@ -31,10 +31,12 @@ It helps users **track workouts, calculate BMI-based Smart Plans, and interact w
    cd FITTRACK-SITE
 
 2.Install dependencies:
-npm install
+
+     npm install
 
 3.Start the app:
-npm start
+
+     npm start
 
 5.License
 his project is for educational purposes only.
