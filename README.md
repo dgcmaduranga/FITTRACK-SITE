@@ -3,6 +3,10 @@
 FitTrack is a **Fitness Tracker Dashboard** built with **React.js** and **Firebase**.  
 It helps users **track workouts, calculate BMI-based Smart Plans, and interact with an AI Coach** for professional fitness guidance.
 
+ 🌍 Live Demo Hosted on Firebase:
+                    
+      https://gen-lang-client-0937770356.web.app
+
 ---
 
 ## Features
