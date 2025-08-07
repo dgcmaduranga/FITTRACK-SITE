@@ -33,8 +33,8 @@ It helps users **track workouts, calculate BMI-based Smart Plans, and interact w
       
 🔗. Clone the repository:
   
-   git clone https://github.com/YOUR_USERNAME/FITTRACK-SITE.git
-   cd FITTRACK-SITE
+     git clone https://github.com/YOUR_USERNAME/FITTRACK-SITE.git
+     cd FITTRACK-SITE
 
 🔗. Install dependencies:
 
