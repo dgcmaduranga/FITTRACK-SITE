@@ -25,8 +25,10 @@ It helps users **track workouts, calculate BMI-based Smart Plans, and interact w
 ---
 
 ## Installation
+
+      
 🔗. Clone the repository:
-   ```bash
+  
    git clone https://github.com/YOUR_USERNAME/FITTRACK-SITE.git
    cd FITTRACK-SITE
 
